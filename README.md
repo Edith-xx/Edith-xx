@@ -31,14 +31,7 @@ My current work mainly revolves around the following directions:
 
 * * *
 
-# Academic Profile
-
-I am committed to combining **theory, algorithms, and practical wireless applications** to address challenging problems in modern communication and signal processing systems.
-
-My long-term goal is to contribute to the development of intelligent, secure, and efficient wireless technologies.
-
 
 # Links
 
-- Code Repository: *Coming Soon*
 - ORCID: https://orcid.org/0009-0006-1343-0765
