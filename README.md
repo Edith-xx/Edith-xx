@@ -10,16 +10,6 @@ I am Zhenxin Cai, a Ph.D. student at the School of Electronic Science and Engine
 - Wireless Signal Processing
 - Domain Generalization Algorithm Optimization
 
-# Publications
-
-My research has been published in IEEE journals and conferences, covering topics related to wireless security, signal analysis, and algorithmic optimization.
-
-- IEEE TIFS: 3  
-- IEEE TCCN: 1
-- IEEE IOTJ: 3
-- IEEE CL: 1
-- IEEE Conference: 10
-
 # Current Research
 
 My current work mainly revolves around the following directions:
