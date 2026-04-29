@@ -2,7 +2,7 @@
 
 # About Me
 
-I am Zhenxin Cai, a Ph.D. student at the School of Electronic Science and Engineering, Nanjing University (2022–2027).
+I am Zhenxin Cai, a Ph.D. student at the School of Electronic Science and Engineering, Nanjing University.
 
 # Research Interests
 
