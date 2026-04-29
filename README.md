@@ -10,15 +10,6 @@ I am Zhenxin Cai, a Ph.D. student at the School of Electronic Science and Engine
 - Wireless Signal Processing
 - Domain Generalization Algorithm Optimization
 
-# Current Research
-
-My current work mainly revolves around the following directions:
-
-- Secure and reliable wireless signal representation
-- Physical-layer-oriented intelligent signal analysis
-- Optimization methods for communication and sensing systems
-- Learning-based approaches for wireless security applications
-
 * * *
 
 
